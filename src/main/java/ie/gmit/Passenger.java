@@ -1,3 +1,7 @@
+//Aaron Mckinley
+//Passenger class for getters and setters and constructors
+//05/03/20
+
 package ie.gmit;
 
 public class Passenger {

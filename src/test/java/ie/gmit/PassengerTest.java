@@ -1,3 +1,7 @@
+//Aaron Mckinley
+//Junit tests for the Passenger class
+//05/03/20
+
 package ie.gmit;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeEach;
